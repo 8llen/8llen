@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ellen
-- 👀 I’m interested in learning.
 - 🌱 I’m currently studying for a bachelor's degree in information systems.
 
 
